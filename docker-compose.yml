@@ -1,0 +1,7 @@
+version: '3'
+services:
+  wildfly-app:
+    build: .
+    ports:
+      - "8080:8080"
+      - "9990:9990"
