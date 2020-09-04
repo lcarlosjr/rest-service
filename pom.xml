@@ -13,7 +13,7 @@
 	<artifactId>rest-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-service</name>
-	<description>Rest Service Demo</description>
+	<description>Rest Service Demo with wildfly</description>
 	<packaging>war</packaging>
 	
 	<properties>
